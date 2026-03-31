@@ -11,7 +11,7 @@ La implementación se realizó siguiendo los requisitos técnicos de la evaluaci
 | **Sistema Operativo** | Windows Server 2016 Standard |
 | **Arquitectura** | 64 bits |
 | **Interfaz de Usuario** | Experiencia de Escritorio (GUI) |
-| **Memoria RAM** | 8 GB (8192 MB) |
+| **Memoria RAM** | 9 GB (9216 MB) |
 | **Procesadores** | 4 vCPU |
 | **Disco Duro** | 50 GB (VDI - Reservado dinámicamente) |
 | **Red** | Adaptador NAT con Port Forwarding |
